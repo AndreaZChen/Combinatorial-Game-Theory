@@ -1,3 +1,5 @@
+###COMBINATORIAL GAME THEORY MODULE###
+
 from math import ceil
 from math import floor
 from fractions import Fraction
